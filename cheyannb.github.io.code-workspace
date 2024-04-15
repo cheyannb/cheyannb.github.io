@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "cheyannb.github.io",
+			"path": "."
+		},
+		{
+			"name": "mytubesite",
+			"path": "../../mytubesite"
+		},
+		{
+			"name": "youtube-clone",
+			"path": "../../Video Sharing Website/youtube-clone"
+		}
+	],
+	"settings": {}
+}
